@@ -1,8 +1,3 @@
-Here is a production-ready, clean, and developer-first **GitHub Organization Profile README** (`.github/profile/README.md`) for **InScope**.
-
-***
-
-```markdown
 <div align="center">
 
 # InScope
@@ -142,4 +137,3 @@ Made with 🖤 for software agencies and builders worldwide.
 **[inscope.dev](https://inscope.dev)**
 
 </div>
-```
